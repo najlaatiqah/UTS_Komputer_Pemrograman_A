@@ -1,6 +1,6 @@
 # Program Pembelian Barang dengan Menggunakan Java
 
-## Anggota Kelompok
+## Anggota Kelompok 16
 * *M. Iksan Budiman* (G1A025043)
 * *Atiqah Najla Fadhilah Rachman* (G1A025055)
 * *Ahmad Ali* (G1A025057)
